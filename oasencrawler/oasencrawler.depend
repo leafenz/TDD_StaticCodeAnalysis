@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1709405179 source:c:\users\user\desktop\oasencrawler\main.cpp
+	<iostream>
+	"fields.h"
+
+1709405179 c:\users\user\desktop\oasencrawler\include\fields.h
+
+1712013267 source:c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\main.cpp
+	<iostream>
+	"fields.h"
+	<stdlib.h>
+	<time.h>
+	<welt.h>
+	<spieler.h>
+	"gegner.h"
+
+1709408779 c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\include\fields.h
+
+1712013126 source:c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\src\welt.cpp
+	"welt.h"
+	"spieler.h"
+	<iostream>
+	"gegner.h"
+
+1712012989 c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\include\welt.h
+	<spieler.h>
+	"gegner.h"
+
+1711841489 c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\include\spieler.h
+
+1711148666 source:c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\src\feld.cpp
+	"feld.h"
+
+1711148666 c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\include\feld.h
+
+1711841480 source:c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\src\spieler.cpp
+	"spieler.h"
+
+1712014018 source:c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\src\gegner.cpp
+	"gegner.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<math.h>
+
+1712013964 c:\users\user\desktop\informatik 2.semester\op 2.sem\oasencrawler\include\gegner.h
+	"spieler.h"
+
